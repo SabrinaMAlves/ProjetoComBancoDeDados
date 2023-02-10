@@ -246,7 +246,7 @@ namespace UC_12_Sabrina_Relac_1000
                 textBox4.Clear();
                 textBox5.Clear();
                 textBox6.Clear();
-                textBox2.Focus();//mensagem
+                textBox2.Focus();
                 MessageBox.Show("Dados Excluídos!!!", "Confirmado", MessageBoxButtons.OK, MessageBoxIcon.Information); // caso seja verdadeiro eu quero excluir 
             }
             else
